@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+
+I'm a Ph.D. student in Hunan University.
 I'm interested in task assignment in spatial crowdsourcing; 
+
+
+
+
 
 <!--
 **eeeeeexy/eeeeeexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
